@@ -1,0 +1,432 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "usuario": "admin",
+            "senha": "$2y$10$wLFDO0yPSrBcEkWacEUCyeyFtHBzJ1cbroe1o7ogZSAfNkWzxqXna",
+            "tipo": "admin"
+        },
+        {
+            "id": 2,
+            "usuario": "Lukis",
+            "senha": "$2y$10$w37TmJ5aJk5lBcP9hThC..jC317cH6WZ15uBZ\/SE8DRvlSPdwPK3.",
+            "tipo": "player"
+        },
+        {
+            "id": 3,
+            "usuario": "Dio",
+            "senha": "$2y$10$w29LufdQMGbtazo0pNmukuPY8WcgP8vM.rSQwF39vQHiS0Fg4amY6",
+            "tipo": "player"
+        },
+        {
+            "id": 4,
+            "usuario": "Aurelion",
+            "senha": "$2y$10$hO7xDemVQZdZdmo.Tk9LauKssuJ1DikQuwO4guWAfDYsEycS1w\/ty",
+            "tipo": "player"
+        },
+        {
+            "id": 5,
+            "usuario": "Edens",
+            "senha": "$2y$10$\/Kw10SWzb8CSm..CaHWZkeAQwqHFcwPIOvcgU4pg3uyx5Iu7Q3zxK",
+            "tipo": "player"
+        },
+        {
+            "id": 6,
+            "usuario": "Damian",
+            "senha": "$2y$10$CutzpjgsxJiZ2lCiBwfPQOpt4eor3vrWlcljUOvr9bHr8k8Np2OmK",
+            "tipo": "player"
+        },
+        {
+            "id": 7,
+            "usuario": "Adrian",
+            "senha": "$2y$10$7B.LQIfxLdKomGcZcXGVzePXMsweBIX9CE4KDD8XBH633lRsN6C7y",
+            "tipo": "player"
+        },
+        {
+            "id": 8,
+            "usuario": "Ikulian",
+            "senha": "$2y$10$chY1io.ZdljEJ1xYL2PaJebCFTCj.S5owKdneyQNCnVhaTO6fG1Ca",
+            "tipo": "player"
+        },
+        {
+            "id": 9,
+            "usuario": "Bachira",
+            "senha": "$2y$10$s0sDoho4tanQp\/BQUVWoR.n5Ul3cOQht7MN02zFKQ3dNZsNu3wuIi",
+            "tipo": "player"
+        },
+        {
+            "id": 10,
+            "usuario": "Kaeldran",
+            "senha": "$2y$10$sYQ6ZVq0UepDp7jNiQlNSe2ytgiDTHYxQcB63v9LXZT.enTCMBCdC",
+            "tipo": "player"
+        },
+        {
+            "id": 11,
+            "usuario": "Kalebe",
+            "senha": "$2y$10$QwYj9kxwIYXZXavGXkzAmuWiq6pRGEtKpZWMJ5isHZp4X4X3FQ3Li",
+            "tipo": "admin"
+        }
+    ],
+    "fichas": [
+        {
+            "id": 1,
+            "codigo": "F001",
+            "usuario_id": null,
+            "info": {
+                "nome": "Lukis",
+                "efeitos": "...",
+                "titulos": "Graduado",
+                "dinheiro": 0,
+                "classe": "Invocador",
+                "hp": 100
+            },
+            "status": {
+                "level": 2,
+                "forca": 2,
+                "velocidade": 1,
+                "agilidade": 3,
+                "experiencia": 3,
+                "iq": 105,
+                "stamina": 15,
+                "durabilidade": 6,
+                "combate": 2,
+                "energia": 20,
+                "aura": 2
+            },
+            "inventario": {
+                "itens": "Isqueiro | Manoplas | STG 44 (30 balas e 3 cartuchos) | Livro de Encantamento(2)| Talismã de Explosão | ",
+                "talento": "...",
+                "poderes": "Jutsu 1: ataque de stuka(Lvl 1) Custo: 10 E.A.\r\nJutsu 2: Mais força de ataque(Lvl 1)🔒\r\nJutsu 3: Banker (Lvl 1)🔒\r\nJutsu 4: blitzkrig (Lvl 1)🔒\r\nJutsu 5: fumaça (Lvl 1)🔒\r\nJutsu 6: ataque panzer (Lvl 1) 🔒\r\nJutsu 7: Kaiser! (Lvl 1)🔒\r\n\r\nEncantamento:\r\nGlitch👾\r\n(pode bugar ou crachar ataques tornando eles difíceis de desviar)",
+                "poderes_classe": "Invocação do Instinto - Permite que o usuário invoque um soldado com uma Karabiner 98k (30 balas) para lutar junto dele. Custo: 10 E.A."
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 20,
+                "traumas": "1",
+                "rm": 30
+            },
+            "criado_em": "2025-12-12T14:41:58+01:00"
+        },
+        {
+            "id": 2,
+            "codigo": "F002",
+            "usuario_id": null,
+            "info": {
+                "nome": "Dio",
+                "efeitos": "🗣️🧠 | Amaldiçoado | ",
+                "titulos": "Graduado",
+                "dinheiro": 7560,
+                "classe": "Guerreiro",
+                "hp": 100
+            },
+            "status": {
+                "level": 8,
+                "forca": 20,
+                "velocidade": 8,
+                "agilidade": 5,
+                "experiencia": 4,
+                "iq": 95,
+                "stamina": 25,
+                "durabilidade": 6,
+                "combate": 3,
+                "energia": 35,
+                "aura": 5
+            },
+            "inventario": {
+                "itens": "Escudo (60 HP) | Livro de História | Brasão de Graduado | Celular Magic | Pergaminho do Pão VERMELHO | Machado encantado  (HP 200) | Talismã de Proteção (uso único) | ",
+                "talento": "Radiazione - Permite ao usuário converter qualquer tipo de radiação em outro tipo com sua vontade.",
+                "poderes": "Jutsu 1:  NRG  (lvl 1) Custo 10 E.A.\r\nJutsu 2:  Nucleo.A (lvl 1) Custo 5 E.A.\r\nJutsu 3:  Fast.Energy (lvl 2) Custo 10 E.A.\r\nJutsu 4:  Feixe.G_ (Lvl 2) Custo 10 E.A.\r\nJutsu 5:  Rádio.U (lvl 1)🔒\r\nJutsu 6:  Perigo.UP (lvl 1)🔒\r\nJutsu 7: Zona nuclear (lvl 1)🔒\r\n\r\nEstilo de Luta: Pro-Player",
+                "poderes_classe": "Golpe Marcial - Um golpe firme e treinado que aumenta a força bruta do ataque. Custo 5 Stamina."
+            },
+            "mente": {
+                "sanidade_atual": 90,
+                "sanidade_max": 100,
+                "estresse": 30,
+                "traumas": "1",
+                "rm": 30
+            },
+            "criado_em": "2025-12-12T14:47:16+01:00"
+        },
+        {
+            "id": 3,
+            "codigo": "F003",
+            "usuario_id": null,
+            "info": {
+                "nome": "Damian Jackson",
+                "efeitos": "...",
+                "titulos": "Graduado",
+                "dinheiro": 5100,
+                "classe": "Invocador",
+                "hp": 100
+            },
+            "status": {
+                "level": 2,
+                "forca": 4,
+                "velocidade": 4,
+                "agilidade": 3,
+                "experiencia": 2,
+                "iq": 110,
+                "stamina": 5,
+                "durabilidade": 1,
+                "combate": 5,
+                "energia": 30,
+                "aura": 1
+            },
+            "inventario": {
+                "itens": "Itens: Um cajado de madeira amaldiçoado | Brasão da família Jackson | 4 pães | Celular | Brasão de graduado | Anel 💍| Talismã de defesa | ",
+                "talento": "",
+                "poderes": "Poder : Shinigami \r\n1 Jutsu: Coelhos vermelhos (lvl 1) Custo: 10 E.A.\r\n2 Jutsu: Sapo Voador  (Lvl 1)\r\n3 Jutsu: Corvos Amaldiçoados  (Lvl 1)\r\n4 Jutsu: Cães Sombrios  (Lvl 1)\r\n5 Jutsu: Anaconda Venenosa (Lvl 1)\r\n6 Jutsu: Impacto do Elefante  (Lvl 1)\r\n7 Jutsu: Rei das Sombras  (Lvl 1)",
+                "poderes_classe": "Não tem"
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 10,
+                "traumas": "0",
+                "rm": 15
+            },
+            "criado_em": "2025-12-12T14:50:34+01:00"
+        },
+        {
+            "id": 4,
+            "codigo": "F004",
+            "usuario_id": null,
+            "info": {
+                "nome": "Adrian",
+                "efeitos": "⚫",
+                "titulos": "Graduado",
+                "dinheiro": 61200,
+                "classe": "Invocador",
+                "hp": 100
+            },
+            "status": {
+                "level": 2,
+                "forca": 1,
+                "velocidade": 1,
+                "agilidade": 1,
+                "experiencia": 2,
+                "iq": 105,
+                "stamina": 5,
+                "durabilidade": 1,
+                "combate": 2,
+                "energia": 40,
+                "aura": 1
+            },
+            "inventario": {
+                "itens": "2 Café expresso | Óculos Escuros | Celular | Brasão de graduado | Sabre Platina\/Prata | Talismã de Proteção | Runa de afiação | \r\n\r\nMochila X(10 espaços):\r\nRPG-7 (5 granadas)\r\nFN-FAL .308 wigester (40 Balas e 7 cartuchos)",
+                "talento": "...",
+                "poderes": "Jutsu 1:  limpeza de área (lvl 1) Custo 10 E.A.\r\nJutsu 2: liderança superior (lvl 1)🔒\r\nJutsu 3: proteção superior (lvl 1)🔒\r\nJutsu 4: ataque preciso (lvl 1)🔒\r\nJutsu 5: reagrupar (lvl 1)🔒\r\nJutsu 6: muro de Berlin (lvl 1)🔒 \r\nJutsu 7: Cerco (lvl 1)🔒",
+                "poderes_classe": "1. Invocação do Instinto - Permite que o usuário invoque um soldado com uma AK-12 (30 balas) para lutar junto dele. Custo 10 E.A."
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 40,
+                "traumas": "0",
+                "rm": 25
+            },
+            "criado_em": "2025-12-12T14:53:32+01:00"
+        },
+        {
+            "id": 5,
+            "codigo": "F005",
+            "usuario_id": null,
+            "info": {
+                "nome": "Aurelian Tempest ",
+                "efeitos": "Amaldiçoado (anel)",
+                "titulos": "Graduado ",
+                "dinheiro": 5100,
+                "classe": "Mago",
+                "hp": 100
+            },
+            "status": {
+                "level": 5,
+                "forca": 1,
+                "velocidade": 7,
+                "agilidade": 6,
+                "experiencia": 3,
+                "iq": 110,
+                "stamina": 15,
+                "durabilidade": 4,
+                "combate": 2,
+                "energia": 85,
+                "aura": 3
+            },
+            "inventario": {
+                "itens": "Brasão Tempest | Celular | Brasão de graduado\r\n",
+                "talento": "...",
+                "poderes": "Jutsu 1: Gula  (Lvl 2) Custo: 10 E.A\r\nJutsu 2: Grande Sábio  (Lvl 1) 10 E.A\r\nJutsu 3: Barreira do Infinito  (Lvl 2) 10 E.A\r\nJutsu 4: Chuva da morte  (Lvl 1)🔒\r\nJutsu 5: Cura energética  (Lvl 1)🔒\r\nJutsu 6: Invocação Caótica  (Lvl 1)🔒\r\nJutsu 7: Expansão do Vazio  (Lvl 1)🔒",
+                "poderes_classe": "Passiva: A cada batalha ganha + 5 de E.A."
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 20,
+                "traumas": "0",
+                "rm": 10
+            },
+            "criado_em": "2025-12-12T14:56:14+01:00"
+        },
+        {
+            "id": 6,
+            "codigo": "F006",
+            "usuario_id": null,
+            "info": {
+                "nome": "Ikulian",
+                "efeitos": "Amaldiçoado",
+                "titulos": "Graduado",
+                "dinheiro": 5100,
+                "classe": "Guerreiro",
+                "hp": 100
+            },
+            "status": {
+                "level": 5,
+                "forca": 8,
+                "velocidade": 6,
+                "agilidade": 4,
+                "experiencia": 4,
+                "iq": 95,
+                "stamina": 25,
+                "durabilidade": 5,
+                "combate": 3,
+                "energia": 15,
+                "aura": 6
+            },
+            "inventario": {
+                "itens": "Espada (Hp 40) | Bateria 220 w | Celular | Brasão de graduado | ",
+                "talento": "...",
+                "poderes": "Jutsu 1: tachyon blade  (Lvl 1) Custo: 10 E.A.\r\nJutsu 2: elétron speed\/dash  (Lvl 1)Custo: 10 E.A. \r\nJutsu 3: eletric control  (Lvl 1) Custo: 10 E.A.\r\nJutsu 4: lightning flash  (Lvl 1)🔒 \r\nJutsu 5: gravity push (Lvl 1)🔒 \r\nJutsu 6: Zeus Javelin  (Lvl 1)🔒 \r\nJutsu 7: Vimeinun myrsky  (Lvl 1)🔒 ",
+                "poderes_classe": "Golpe Marcial - Um golpe firme e treinado que aumenta a força bruta do ataque. Custo 5 Stamina."
+            },
+            "mente": {
+                "sanidade_atual": 95,
+                "sanidade_max": 100,
+                "estresse": 30,
+                "traumas": "0",
+                "rm": 10
+            },
+            "criado_em": "2025-12-12T14:58:31+01:00"
+        },
+        {
+            "id": 7,
+            "codigo": "F007",
+            "usuario_id": null,
+            "info": {
+                "nome": "Edens Sands",
+                "efeitos": "⚜",
+                "titulos": "Clérigo | Graduado",
+                "dinheiro": 8285,
+                "classe": "Clérigo",
+                "hp": 105
+            },
+            "status": {
+                "level": 2,
+                "forca": 4,
+                "velocidade": 2,
+                "agilidade": 3,
+                "experiencia": 2,
+                "iq": 100,
+                "stamina": 15,
+                "durabilidade": 2,
+                "combate": 4,
+                "energia": 20,
+                "aura": 2
+            },
+            "inventario": {
+                "itens": "Cajado Mágico | 700 g Sal | 3 potes d'água Benta | Cruz | Brasão de graduado | Celular | Talismã de Proteção | Talismã de Recuperação de Prana | ",
+                "talento": "Mãos Firmes\r\nO clérigo tem uma destreza natural ao lidar com ferimentos.\r\nNunca treme, nunca perde precisão, mesmo sob pressão.\r\n",
+                "poderes": "Jutsu 1: Exorcismo (Lvl 1) Custo: 10 P.\r\nJutsu 2: Orações (Lvl 1)🔒\r\nJutsu 3: Luz Divina (Lvl 1)🔒\r\nJutsu 4: Água Benta (Lvl 1)🔒\r\nJutsu 5: Neroh (Lvl 1)🔒\r\nJutsu 6: Juízo Final (Lvl 1)🔒\r\nJutsu 7: Catedral (Lvl 1)🔒\r\n",
+                "poderes_classe": "Luz Restauradora - Canaliza Prana suave que fecha ferimentos leves. Custo: 5 Prana."
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 20,
+                "traumas": "0",
+                "rm": 35
+            },
+            "criado_em": "2025-12-12T15:02:41+01:00"
+        },
+        {
+            "id": 8,
+            "codigo": "F008",
+            "usuario_id": null,
+            "info": {
+                "nome": "Kaeldran",
+                "efeitos": "...",
+                "titulos": "Graduado",
+                "dinheiro": 5066,
+                "classe": "Paladino",
+                "hp": 100
+            },
+            "status": {
+                "level": 2,
+                "forca": 3,
+                "velocidade": 2,
+                "agilidade": 1,
+                "experiencia": 2,
+                "iq": 100,
+                "stamina": 20,
+                "durabilidade": 2,
+                "combate": 2,
+                "energia": 15,
+                "aura": 7
+            },
+            "inventario": {
+                "itens": "Espada (Hp 45) |  3 Chocolate |  Pente e Espelho | \r\nCelular | Brasão de graduado | ",
+                "talento": "Aura é maleável e simples de manipular para o usuário.",
+                "poderes": "1. Noctis Imperium (Lvl 1)  Custo: 5 P.\r\n2. Praesidium Lunaris (Lvl 1) 🔒\r\n3. Custos Tenebris (Lvl 1) 🔒\r\n4. Ictus Lunam Fractam (Lvl 1)🔒\r\n5. Votum Fideli (Lvl 1) 🔒\r\n6. Gloria Umbra (Lvl 1) 🔒\r\n7. Dominatus Noctis (Lvl 1) 🔒 \r\n",
+                "poderes_classe": "Golpe Aureliano - Canaliza Aura ou E.A. na Arma do usuário causando +25% de dano. Custo 1 Aura ou 10 P."
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 0,
+                "traumas": "0",
+                "rm": 15
+            },
+            "criado_em": "2025-12-13T01:14:46+01:00"
+        },
+        {
+            "id": 9,
+            "codigo": "F009",
+            "usuario_id": null,
+            "info": {
+                "nome": "Bachira",
+                "efeitos": "Destruct (Impede de receber buffs) | ",
+                "titulos": "Graduado",
+                "dinheiro": 100,
+                "classe": "Destruidor",
+                "hp": 100
+            },
+            "status": {
+                "level": 2,
+                "forca": 4,
+                "velocidade": 2,
+                "agilidade": 2,
+                "experiencia": 2,
+                "iq": 95,
+                "stamina": 10,
+                "durabilidade": 2,
+                "combate": 3,
+                "energia": 35,
+                "aura": 1
+            },
+            "inventario": {
+                "itens": "Cordão | Machado (Hp 20) | Celular | Brasão de graduado ",
+                "talento": "",
+                "poderes": "Jutsu 1: Ilimitado  (Lvl 1) Custo: 5 E.A.\r\nJutsu 2: Dominio Simples  (Lvl 1)🔒\r\nJutsu 3: Tsuno  (Lvl 1)🔒\r\nJutsu 4: Desmantelar  (Lvl 1)🔒\r\nJutsu 5: Besta Mitica Ambar  (Lvl 1)🔒\r\nJutsu 6: Kokusen  (Lvl 1)🔒\r\nJutsu 7: Santuario Vazio (Lvl 1)🔒\r\n",
+                "poderes_classe": "1. Impacto reluzente - Faz com que um atque se ganhe um range de explosão de 4 metros. Custo: 5 E.A."
+            },
+            "mente": {
+                "sanidade_atual": 100,
+                "sanidade_max": 100,
+                "estresse": 50,
+                "traumas": "0",
+                "rm": 10
+            },
+            "criado_em": "2025-12-14T18:29:55+01:00"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ececec;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #0002;
+}
+
+h2, h3 {
+    border-left: 4px solid #444;
+    padding-left: 8px;
+}
+
+a {
+    color: #005bbb;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* botões */
+button,
+.botao {
+    padding: 10px 16px;
+    background: #005bbb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover,
+.botao:hover {
+    background: #004099;
+}
+
+/* caixas */
+.box {
+    background: white;
+    padding: 18px;
+    border-radius: 6px;
+    margin-top: 20px;
+    box-shadow: 0 0 6px #0001;
+}
+
+/* tabelas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* inputs */
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0 16px 0;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    background: #fafafa;
+}
+
+textarea {
+    resize: vertical;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #005bbb;
+    background: white;
+}
+
+/* botão excluir (vermelho) */
+.btn-danger {
+    background: #bb0000;
+}
+
+.btn-danger:hover {
+    background: #880000;
+}
